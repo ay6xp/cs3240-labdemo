@@ -1,2 +1,2 @@
 def greetings(msg):
-    print(msg)
+    print(msg  + "hello world ")
