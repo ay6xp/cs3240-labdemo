@@ -1,4 +1,4 @@
 from helper import greetings
 
 
-greetings("hello")
+greetings("this is actually a fake message")
