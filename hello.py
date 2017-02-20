@@ -1,3 +1,5 @@
 
-print("hello")
-print("hey ahmed was here")
+
+def greetings(msg):
+    print(msg)
+greetings("hello")
